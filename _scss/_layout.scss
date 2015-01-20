@@ -450,6 +450,55 @@ footer a:hover {
   }
 }
 
+/* CONFERENCES */
+
+.tags span {
+  background: #2A82D7;
+  padding: 4px;
+  margin: 1px;
+  border-radius: 3px;
+  color: #fff;
+  line-height: 1.9;
+}
+
+.conference {
+  margin: 50px 0;
+  padding: 5px;
+
+  .conference-date {
+    border-bottom: 2px solid #2A82D7;
+    padding-bottom: 10px;
+    font-size: 1.2em;
+  }
+
+  .conference-name {
+    font-size: 2.2em;
+    font-weight: 200;
+    padding-top: 5px;
+    margin-bottom: 0;
+  }
+
+  .conference-location {
+    font-weight: 600;
+  }
+
+  .conference-host {
+    font-weight: 600;
+    padding-bottom: 20px;
+  }
+
+  .conference-description {
+    padding-bottom: 10px;
+  }
+
+  .conference-cost {
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+  }
+}
+
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { }
 
