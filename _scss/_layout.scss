@@ -82,6 +82,9 @@ aside#sidebar {
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
+  margin-left: 10px;
+  width: 200px;
+  text-align: center;
 }
 
 #downloads {
@@ -89,8 +92,8 @@ aside#sidebar p.repo-owner a {
 }
 
 a.button {
-  width: 134px;
-  height: 58px;
+  width: 205px;
+  height: 80px;
   padding-top: 22px;
   padding-left: 68px;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -98,21 +101,24 @@ a.button {
   line-height: 1.2;
   color: #fff;
 }
+
 a.button small {
   display: block;
   font-size: 11px;
 }
+
 header a.button {
   position: absolute;
   top: 0;
-  right: 0;
+  right: -35px;
   background: transparent url('/images/github-button.png') 0 0 no-repeat;
 }
+
 aside a.button {
   display: block;
-  width: 138px;
+  width: 200px;
   padding-left: 64px;
-  margin-bottom: 20px;
+  margin: 10px;
   font-size: 21px;
   background: transparent url('/images/download-button.png') 0 0 no-repeat;
 }
