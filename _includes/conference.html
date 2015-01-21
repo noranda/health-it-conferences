@@ -1,0 +1,47 @@
+<div class="conference">
+  <div class="conference-date">
+    {{include.conference.start_date | date: "%B %d, %Y"}}
+    {% if include.conference.end_date and include.conference.start_date != include.conference.end_date %}
+      - {{include.conference.end_date | date: "%B %d, %Y"}}
+    {% endif %}
+  </div>
+  <div class="conference-name">
+    {% if include.conference.conference_url %}
+      <a href="{{include.conference.conference_url}}" target="_blank">
+    {% endif %}
+    {{include.conference.title | escape}}
+    {% if include.conference.url %}
+      </a>
+    {% endif %}
+  </div>
+  <div class="conference-location">
+    {{include.conference.location}}
+  </div>
+  {% if include.conference.host %}
+    <div class="conference-host">
+      Presented by:
+      {% if include.conference.host_url %}
+        <a href="{{include.conference.host_url}}" target="_blank">
+      {% endif %}
+      {{include.conference.host | escape}}
+      {% if include.conference.host_url %}
+        </a>
+      {% endif %}
+    </div>
+  {% endif %}
+  <div class="conference-description">
+    {{include.conference.content}}
+  </div>
+  {% if include.conference.cost_information %}
+    <div class="conference-cost">
+      {{include.conference.cost_information | join: '<br>'}}
+    </div>
+  {% endif %}
+  {% if include.conference.tags %}
+    <div class="tags">
+      {% for tag in include.conference.tags %}
+        <span>{{tag}}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>

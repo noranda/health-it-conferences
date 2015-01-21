@@ -13,7 +13,17 @@ layout: default
     <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Conference List
   </h3>
 
-  {% include conferences.html %}
+  <div class="conferences">
+    {% assign prev_month = null %}
+    {% for post in site.posts reversed %}
+      {% capture conference_month %}{{post.date | date: "%B"}}{% endcapture %}
+      {% if prev_month == null or prev_month != conference_month %}
+        {% assign prev_month = conference_month %}
+        <div class="month-divider">{{conference_month}}</div>
+      {% endif %}
+      {% include conference.html conference=post %}
+    {% endfor %}
+  </div>
 
   <h3>
     <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true">
