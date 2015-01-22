@@ -18,11 +18,19 @@ layout: default
     {% for post in site.posts reversed %}
       {% capture conference_month %}{{post.date | date: "%B"}}{% endcapture %}
       {% if prev_month == null or prev_month != conference_month %}
+        {% if prev_month != null %}
+          </div>
+        {% endif %}
+
         {% assign prev_month = conference_month %}
-        <div class="month-divider">{{conference_month}}</div>
+        {% capture collapse_id %}{{post.date | date: "%B-%Y" | downcase}}{% endcapture %}
+        <a href="#{{collapse_id}}" class="month-divider" data-toggle="collapse" aria-expanded="true">{{conference_month}}</a>
+
+        <div id="{{collapse_id}}" class="collapse in">
       {% endif %}
       {% include conference.html conference=post %}
     {% endfor %}
+    </div>
   </div>
 
   <h3>
@@ -35,13 +43,11 @@ layout: default
 </section>
 
 <aside id="sidebar">
-  <a href="https://z/zipball/master" class="button">
-    <small>Download</small>
-    .zip file
+  <a href="https://github.com/health-design-conferences/health-design-conferences.github.io/pulls" class="button">
+    Pull Request
   </a>
-  <a href="https://github.com/health-design-conferences/health-design-conferences.github.io/tarball/master" class="button">
-    <small>Download</small>
-    .tar.gz file
+  <a href="https://github.com/health-design-conferences/health-design-conferences.github.io/issues" class="button">
+    New Issue
   </a>
 
   <p class="repo-owner"><a href="https://github.com/health-design-conferences/health-design-conferences.github.io"></a>maintained by<br><a href="https://github.com/health-design-conferences">health-design-conferences</a>.</p>

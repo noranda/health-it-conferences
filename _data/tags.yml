@@ -1,0 +1,57 @@
+---
+- slug: ca-bay-area
+  name: CA bay area
+- slug: nyc
+  name: NYC
+- slug: arizona
+  name: arizona
+- slug: boston
+  name: boston
+- slug: california
+  name: california
+- slug: chicago
+  name: chicago
+- slug: design
+  name: design
+- slug: florida
+  name: florida
+- slug: free
+  name: free
+- slug: health-it
+  name: health IT
+- slug: health-informatics
+  name: health informatics
+- slug: healthcare
+  name: healthcare
+- slug: illinois
+  name: illinois
+- slug: las-vegas
+  name: las vegas
+- slug: louisiana
+  name: louisiana
+- slug: massachusetts
+  name: massachusetts
+- slug: miami
+  name: miami
+- slug: mobile
+  name: mobile
+- slug: nevada
+  name: nevada
+- slug: new-york
+  name: new york
+- slug: north-dakota
+  name: north dakota
+- slug: san-francisco
+  name: san francisco
+- slug: seattle
+  name: seattle
+- slug: south-carolina
+  name: south carolina
+- slug: user-experience
+  name: user experience
+- slug: washington
+  name: washington
+- slug: washington-dc
+  name: washington DC
+- slug: women
+  name: women

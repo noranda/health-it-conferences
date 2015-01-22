@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<section id="main-content">
+  <h3>
+    <a id="conferences-by-tag" class="anchor" href="#conferences-by-tag" aria-hidden="true"><span class="octicon octicon-link"></span></a>Conferences by tag: {{ page.tag }} ({{site.tags[page.tag].size}})
+  </h3>
+  {% if site.tags[page.tag] %}
+    <div class="conferences">
+      {% assign prev_month = null %}
+
+      {% for conference in site.tags[page.tag] reversed %}
+        {% capture conference_month %}{{conference.date | date: "%B"}}{% endcapture %}
+        {% if prev_month == null or prev_month != conference_month %}
+          {% if prev_month != null %}
+            </div>
+          {% endif %}
+
+          {% assign prev_month = conference_month %}
+          {% capture collapse_id %}{{conference.date | date: "%B-%Y" | downcase}}{% endcapture %}
+          <a href="#{{collapse_id}}" class="month-divider" data-toggle="collapse" aria-expanded="true">{{conference_month}}</a>
+
+          <div id="{{collapse_id}}" class="collapse in">
+        {% endif %}
+        {% include conference.html conference=conference %}
+      {% endfor %}
+      </div>
+    </div>
+  {% else %}
+    <p>There are no conferences for this tag.</p>
+  {% endif %}
+</section>

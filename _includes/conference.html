@@ -1,3 +1,22 @@
+{% assign tags_content = '' %}
+{% if include.conference.tags.size > 0 %}
+  {% for conference_tag in include.conference.tags %}
+    {% assign tag = null %}
+    {% for data_tag in site.data.tags %}
+      {% if data_tag.name == conference_tag %}
+        {% assign tag = data_tag %}
+      {% endif %}
+    {% endfor %}
+
+    {% if tag %}
+      {% capture tags_content_temp %}
+        {{ tags_content }} <span><a href="/conferences/tag/{{ tag.slug }}/">{{ tag.name }}</a></span>
+      {% endcapture %}
+      {% assign tags_content = tags_content_temp %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <div class="conference">
   <div class="conference-date">
     {{include.conference.start_date | date: "%B %d, %Y"}}
@@ -39,9 +58,7 @@
   {% endif %}
   {% if include.conference.tags %}
     <div class="tags">
-      {% for tag in include.conference.tags %}
-        <span>{{tag}}</span>
-      {% endfor %}
+      {{ tags_content }}
     </div>
   {% endif %}
 </div>
