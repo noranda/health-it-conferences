@@ -1,6 +1,6 @@
 # Health & Design Conferences
 
-An open source list of health and design conferences in the United States.
+An [open source list] of health and design conferences in the United States.
 
 ### Use git to make changes
 
@@ -90,3 +90,4 @@ $ rake tags:generate
 MIT
 
 [pull request]:https://github.com/health-design-conferences/health-design-conferences.github.io/pulls
+[open source list]:http://health-design-conferences.github.io/
