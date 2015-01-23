@@ -37,6 +37,8 @@
   name: new york
 - slug: north-dakota
   name: north dakota
+- slug: salt-lake-city
+  name: salt lake city
 - slug: san-francisco
   name: san francisco
 - slug: seattle
@@ -45,6 +47,8 @@
   name: south carolina
 - slug: user-experience
   name: user experience
+- slug: utah
+  name: utah
 - slug: washington
   name: washington
 - slug: washington-dc
