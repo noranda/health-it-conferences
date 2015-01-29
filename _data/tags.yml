@@ -1,6 +1,8 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
+- slug: mit
+  name: MIT
 - slug: nyc
   name: NYC
 - slug: arizona
@@ -41,16 +43,12 @@
   name: salt lake city
 - slug: san-francisco
   name: san francisco
-- slug: seattle
-  name: seattle
 - slug: south-carolina
   name: south carolina
 - slug: user-experience
   name: user experience
 - slug: utah
   name: utah
-- slug: washington
-  name: washington
 - slug: washington-dc
   name: washington DC
 - slug: women
