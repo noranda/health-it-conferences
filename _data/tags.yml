@@ -3,10 +3,6 @@
   name: CA bay area
 - slug: mit
   name: MIT
-- slug: nyc
-  name: NYC
-- slug: arizona
-  name: arizona
 - slug: boston
   name: boston
 - slug: california
@@ -15,10 +11,6 @@
   name: chicago
 - slug: design
   name: design
-- slug: florida
-  name: florida
-- slug: free
-  name: free
 - slug: health-it
   name: health IT
 - slug: health-informatics
@@ -31,14 +23,12 @@
   name: louisiana
 - slug: massachusetts
   name: massachusetts
-- slug: miami
-  name: miami
-- slug: mobile
-  name: mobile
-- slug: new-york
-  name: new york
 - slug: north-dakota
   name: north dakota
+- slug: pennsylvania
+  name: pennsylvania
+- slug: philadelphia
+  name: philadelphia
 - slug: salt-lake-city
   name: salt lake city
 - slug: san-francisco
@@ -51,5 +41,3 @@
   name: utah
 - slug: washington-dc
   name: washington DC
-- slug: women
-  name: women
