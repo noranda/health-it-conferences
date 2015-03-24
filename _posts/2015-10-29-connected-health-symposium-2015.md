@@ -1,18 +1,18 @@
 ---
 layout: conference
-title: "Connected Health Symposium"
-conference_url: "http://symposium.connected-health.org"
+title: Connected Health Symposium 2015
+conference_url: http://symposium.connected-health.org
 location: Boston, MA
-host: "Partners Healthcare: Center for Connected Health"
-host_url: "http://connectedhealth.partners.org"
+host: Partners Healthcare - Center for Connected Health
+host_url: http://connectedhealth.partners.org
 start_date: 2015-10-29
 end_date: 2015-10-30
 cost_information:
-  - "General Attendee - $1095"
-  - "Government- $595"
-  - "Not for profit- $595"
-  - "Health Care Affiliate - $595"
-  - "Student - $295"
+  - General Attendee - $1095
+  - Government- $595
+  - Not for profit- $595
+  - Health Care Affiliate - $595
+  - Student - $295
 tags:
   - healthcare
   - health IT

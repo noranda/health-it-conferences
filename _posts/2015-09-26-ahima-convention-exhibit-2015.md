@@ -1,10 +1,10 @@
 ---
 layout: conference
-title: "AHIMA Convention & Exhibit 2015"
-conference_url: "http://www.ahima.org/convention/geninfo"
+title: AHIMA Convention & Exhibit 2015
+conference_url: http://www.ahima.org/convention/geninfo
 location: New Orleans, LA
-host: "The American Health Information Management Association (AHIMA)"
-host_url: "http://www.ahima.org"
+host: The American Health Information Management Association (AHIMA)
+host_url: http://www.ahima.org
 start_date: 2015-09-26
 end_date: 2015-09-30
 tags:

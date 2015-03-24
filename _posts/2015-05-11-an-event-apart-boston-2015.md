@@ -1,16 +1,16 @@
 ---
 layout: conference
-title: "An Event Apart Boston 2015"
-conference_url: "http://aneventapart.com/event/boston-2015"
+title: An Event Apart Boston 2015
+conference_url: http://aneventapart.com/event/boston-2015
 location: Boston, MA
 host: An Event Apart
-host_url: "http://aneventapart.com"
+host_url: http://aneventapart.com
 start_date: 2015-05-11
 end_date: 2015-05-13
 cost_information:
-  - "Conference Pass - $995 (until 3/16/2015) / $1,095 (until 5/10/2015) / $1,195 (at-the-door)"
-  - "A Day Apart Pass - $499 (until 3/16/2015) / $549 (until 5/12/2015) / $649 (at-the-door)"
-  - "Conference + A Day Apart Pass - $1,290 (until 3/16/2015) / $1,390 (until 5/10/2015) / $1,490 (at-the-door)"
+  - Conference Pass - $995 (until 3/16/2015) / $1,095 (until 5/10/2015) / $1,195 (at-the-door)
+  - A Day Apart Pass - $499 (until 3/16/2015) / $549 (until 5/12/2015) / $649 (at-the-door)
+  - Conference + A Day Apart Pass - $1,290 (until 3/16/2015) / $1,390 (until 5/10/2015) / $1,490 (at-the-door)
 tags:
   - design
   - boston

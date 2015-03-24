@@ -1,6 +1,6 @@
 ---
 layout: conference
-title: UX Mobile Immersion
+title: UX Mobile Immersion 2015
 conference_url: http://uxim15.uie.com
 location: Salt Lake City, UT
 host: User Interface Engineering

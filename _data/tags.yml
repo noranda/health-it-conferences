@@ -1,8 +1,6 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
-- slug: mit
-  name: MIT
 - slug: boston
   name: boston
 - slug: california
@@ -29,21 +27,27 @@
   name: louisiana
 - slug: massachusetts
   name: massachusetts
+- slug: mobile
+  name: mobile
 - slug: north-dakota
   name: north dakota
-- slug: pennsylvania
-  name: pennsylvania
-- slug: philadelphia
-  name: philadelphia
+- slug: palm-springs
+  name: palm springs
 - slug: salt-lake-city
   name: salt lake city
 - slug: san-francisco
   name: san francisco
+- slug: seattle
+  name: seattle
 - slug: south-carolina
   name: south carolina
 - slug: user-experience
   name: user experience
 - slug: utah
   name: utah
+- slug: washington
+  name: washington
 - slug: washington-dc
   name: washington DC
+- slug: women
+  name: women

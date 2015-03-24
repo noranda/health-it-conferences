@@ -1,10 +1,10 @@
 ---
 layout: conference
-title: "Pro/Design 2015"
-conference_url: "http://prodesignconf.com"
+title: Pro/Design 2015
+conference_url: http://prodesignconf.com
 location: NYC, NY
 host: Nasdaq
-host_url: "http://www.nasdaq.com"
+host_url: http://www.nasdaq.com
 start_date: 2015-01-30
 cost_information:
   - Free

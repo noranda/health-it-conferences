@@ -1,6 +1,6 @@
 ---
 layout: conference
-title: Wicked Good Ember
+title: Wicked Good Ember 2015
 conference_url: http://wickedgoodember.com
 location: Boston, MA
 host: Dockyard
@@ -16,4 +16,4 @@ tags:
   - frontend
 ---
 
-Single track conference hosted by Dockyard to cover topics of EmberJS and get local Ember users together
+Single track conference hosted by Dockyard to cover topics of EmberJS and get local Ember users together.

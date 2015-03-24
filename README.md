@@ -4,18 +4,20 @@ An [open source list] of health and design conferences in the United States.
 
 ### Use git to make changes
 
-`cd` into a the directory you want your project to live in. Then, clone the project:
+Fork a copy of the repo from GitHub.
 
-```
-git clone git@github.com:health-design-conferences/health-design-conferences.github.io.git
-```
-
-Once you've cloned the repo, make the changes you want (see below) and then stage, commit, and push your changes:
+Once you've forked the repo, make the changes you want (see below) and then stage, commit, and push your changes:
 
 ```
 git add <file you've changed>
 git commit -m "these are the changes I've made"
 git push origin master
+```
+
+If you'd like to view your changes before making a pull request, you can do so by starting a Jekyll server (if you have it):
+
+```
+jekyll serve
 ```
 
 Finally, submit a [pull request] to merge your changes into the repo.
@@ -24,7 +26,7 @@ Finally, submit a [pull request] to merge your changes into the repo.
 
 ##### From drafts
 
-In your cloned copy of the repo, first look for the conference you'd like to add in the `_drafts\` folder. If you found it, update the conference information, rename the file by adding the start date to the front of the filename in the format `YYYY-MM-DD-`, move the file from the `_drafts\` folder into the `_posts\` folder, and then run the tag rakefile (see below).
+In your forked copy of the repo, first look for the conference you'd like to add in the `_drafts\` folder. If you found it, update the conference information, rename the file by adding the start date to the front of the filename in the format `YYYY-MM-DD-`, move the file from the `_drafts\` folder into the `_posts\` folder, and then run the tag rakefile (see below).
 
 ##### Not in drafts
 
@@ -57,7 +59,7 @@ tags:
 INFORMATION ABOUT YOUR CONFERENCE
 ```
 
-It is important to include the `---` dashes. Save the file and run the tags rakefile (see below).
+It is important to include the `---` dashes. Also do not use a `:` except in a URL. Save the file and run the tags rakefile (see below).
 
 ### Editing a conference
 

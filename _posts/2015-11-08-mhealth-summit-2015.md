@@ -1,10 +1,10 @@
 ---
 layout: conference
-title: "mHealth Summit 2015"
-conference_url: "http://www.mhealthsummit.org"
+title: mHealth Summit 2015
+conference_url: http://www.mhealthsummit.org
 location: Washington DC
 host: Personal Connected Health Alliance
-host_url: "http://www.pchalliance.org"
+host_url: http://www.pchalliance.org
 start_date: 2015-11-08
 end_date: 2015-11-11
 tags:

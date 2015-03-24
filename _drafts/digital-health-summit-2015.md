@@ -1,10 +1,10 @@
 ---
 layout: conference
-title: "Digital Health Summit 2015"
-conference_url: "http://digitalhealthsummit.com"
+title: Digital Health Summit 2015
+conference_url: http://digitalhealthsummit.com
 location: Las Vegas, NV
 host: International CES
-host_url: "http://www.cesweb.org"
+host_url: http://www.cesweb.org
 start_date: 2015-01-07
 end_date: 2015-01-08
 tags:

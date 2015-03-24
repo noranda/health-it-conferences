@@ -1,6 +1,6 @@
 ---
 layout: conference
-title: Summit to Improve Adherence and Enhance Patient Engagement
+title: Summit to Improve Adherence and Enhance Patient Engagement, 3rd Annual
 conference_url: http://www.worldcongress.com/events/PB15001
 location: Philadelphia, PA
 host: World Congress

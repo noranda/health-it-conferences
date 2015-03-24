@@ -1,17 +1,17 @@
 ---
 layout: conference
-title: "GIANT Conference 2015"
-conference_url: "http://2015.giantconf.com"
+title: GIANT Conference 2015
+conference_url: http://2015.giantconf.com
 location: Charleston, SC
 host: GIANT LLC
-host_url: "http://2015.giantconf.com"
+host_url: http://2015.giantconf.com
 start_date: 2015-06-14
 end_date: 2015-06-17
 cost_information:
-  - "Ridiculously Early Bird - $500 Conference / $400 Workshops"
-  - "Super Early Bird - $600 Conference / $400 Workshops"
-  - "Early Bird - $700 Conference / $400 Workshops - Ends 2/28/2015"
-  - "Regular - $800 Conference / $400 Workshops"
+  - Ridiculously Early Bird - $500 Conference / $400 Workshops
+  - Super Early Bird - $600 Conference / $400 Workshops
+  - Early Bird - $700 Conference / $400 Workshops - Ends 2/28/2015
+  - Regular - $800 Conference / $400 Workshops
 tags:
   - design
   - south carolina
