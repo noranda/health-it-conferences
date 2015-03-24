@@ -11,6 +11,10 @@
   name: chicago
 - slug: design
   name: design
+- slug: ember
+  name: ember
+- slug: frontend
+  name: frontend
 - slug: health-it
   name: health IT
 - slug: health-informatics
@@ -19,6 +23,8 @@
   name: healthcare
 - slug: illinois
   name: illinois
+- slug: javascript
+  name: javascript
 - slug: louisiana
   name: louisiana
 - slug: massachusetts
