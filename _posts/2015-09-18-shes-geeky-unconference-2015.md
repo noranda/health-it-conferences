@@ -2,15 +2,14 @@
 layout: conference
 title: She's Geeky unConference 2015
 conference_url: http://shesgeeky.org
-location: Seattle, Washington
+location: Salt Lake City, UT
 host: Deloitte Digital
 host_url: http://www.deloittedigital.com/us/
-start_date: 2015-04-24
-end_date: 2015-04-25
+start_date: 2015-09-18
+end_date: 2015-09-19
 cost_information:
-  - Regular 2-day Fri/Sat - $140
-  - Regular 1-day Friday or Saturday - $75
-  - 50% discount for students
+  - Early Bird 2-day Fri/Sat - $100
+  - Early Bird 1-day Friday or Saturday - $50
 tags:
   - design
   - women

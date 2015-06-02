@@ -1,17 +1,18 @@
 ---
 layout: conference
-title: Medical Informatics World Conference 2015
+title: Medical Informatics World Conference 2016
 conference_url: http://www.medicalinformaticsworld.com
 location: Boston, MA
 host: Cambridge Healthtech Institute and Clinical Informatics News
 host_url: http://www.chicorporate.com
-start_date: 2015-05-04
-end_date: 2015-05-05
+start_date: 2016-04-04
+end_date: 2016-04-05
 cost_information:
-  - Early Registration - $1,649(C) / $849(A) - Ends 2/6/2015
-  - Advance Registration - $1,799(C) / $899(A) - Ends 3/20/2015
-  - Standard Registration - $1,999(C) / $1,029(A)
-  - C = Comercial, A = Academic, Government, Hospital &amp; Health Systems, Health Plans
+  - TBD. Last year:
+  -   Early Registration - $1,649(C) / $849(A) - Ends 2/6/2015
+  -   Advance Registration - $1,799(C) / $899(A) - Ends 3/20/2015
+  -   Standard Registration - $1,999(C) / $1,029(A)
+  -   C = Comercial, A = Academic, Government, Hospital &amp; Health Systems, Health Plans
 tags:
   - healthcare
   - health IT

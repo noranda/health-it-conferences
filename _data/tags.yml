@@ -5,8 +5,8 @@
   name: boston
 - slug: california
   name: california
-- slug: chicago
-  name: chicago
+- slug: colorado
+  name: colorado
 - slug: design
   name: design
 - slug: ember
@@ -19,22 +19,26 @@
   name: health informatics
 - slug: healthcare
   name: healthcare
-- slug: illinois
-  name: illinois
 - slug: javascript
   name: javascript
+- slug: las-vegas
+  name: las vegas
 - slug: louisiana
   name: louisiana
 - slug: massachusetts
   name: massachusetts
+- slug: michigan
+  name: michigan
+- slug: minnesota
+  name: minnesota
 - slug: mobile
   name: mobile
+- slug: nevada
+  name: nevada
 - slug: north-dakota
   name: north dakota
 - slug: palm-springs
   name: palm springs
-- slug: salt-lake-city
-  name: salt lake city
 - slug: san-francisco
   name: san francisco
 - slug: seattle
@@ -43,11 +47,13 @@
   name: south carolina
 - slug: user-experience
   name: user experience
-- slug: utah
-  name: utah
+- slug: virginia
+  name: virginia
 - slug: washington
   name: washington
 - slug: washington-dc
   name: washington DC
+- slug: washington-dc
+  name: washington dc
 - slug: women
   name: women

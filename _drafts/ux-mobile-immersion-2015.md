@@ -15,6 +15,7 @@ cost_information:
   - F = Full Conference, S = Single-day (starts 2/16/2015)
 tags:
   - design
+  - mobile
   - user experience
   - salt lake city
   - utah
