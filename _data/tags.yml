@@ -1,26 +1,34 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
+- slug: austin
+  name: austin
 - slug: boston
   name: boston
 - slug: california
   name: california
+- slug: cambridge
+  name: cambridge
+- slug: charleston
+  name: charleston
+- slug: chicago
+  name: chicago
 - slug: colorado
   name: colorado
+- slug: denver
+  name: denver
 - slug: design
   name: design
-- slug: ember
-  name: ember
-- slug: frontend
-  name: frontend
+- slug: hackathon
+  name: hackathon
 - slug: health-it
   name: health IT
 - slug: health-informatics
   name: health informatics
 - slug: healthcare
   name: healthcare
-- slug: javascript
-  name: javascript
+- slug: illinois
+  name: illinois
 - slug: las-vegas
   name: las vegas
 - slug: louisiana
@@ -39,12 +47,16 @@
   name: north dakota
 - slug: palm-springs
   name: palm springs
+- slug: san-diego
+  name: san diego
 - slug: san-francisco
   name: san francisco
 - slug: seattle
   name: seattle
 - slug: south-carolina
   name: south carolina
+- slug: texas
+  name: texas
 - slug: user-experience
   name: user experience
 - slug: virginia

@@ -1,20 +1,18 @@
 ---
 layout: conference
-title: GIANT Conference 2015
-conference_url: http://2015.giantconf.com
-location: Charleston, SC
+title: Tiny GIANT Boston 2015
+conference_url: http://www.giantux.com/tinyboston2015/
+location: Boston, MA
 host: GIANT LLC
-host_url: http://2015.giantconf.com
-start_date: 2015-06-14
-end_date: 2015-06-17
+host_url: http://www.giantux.com/
+start_date: 2015-11-06
+end_date: 2015-11-06
 cost_information:
-  - Ridiculously Early Bird - $500 Conference / $400 Workshops
-  - Super Early Bird - $600 Conference / $400 Workshops
-  - Early Bird - $700 Conference / $400 Workshops - Ends 2/28/2015
-  - Regular - $800 Conference / $400 Workshops
+  - $249
 tags:
   - design
-  - south carolina
+  - boston
+  - massachusetts
 ---
 
 GIANT exists because creativity and community go together like a guitar and amp.
