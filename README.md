@@ -1,12 +1,10 @@
-# Health & Design Conferences
+# Health IT Conferences
 
-An [open source list] of health and design conferences in the United States.
+An [open source list] of health IT, design, and development-related conferences in the United States.
 
 ### Use git to make changes
 
-Fork a copy of the repo from GitHub.
-
-Once you've forked the repo, make the changes you want (see below) and then stage, commit, and push your changes:
+Fork a copy of the repo from GitHub, make the changes you want (see below), then stage, commit, and push your changes as follows:
 
 ```
 git add <file you've changed>
@@ -14,7 +12,7 @@ git commit -m "these are the changes I've made"
 git push origin master
 ```
 
-If you'd like to view your changes before making a pull request, you can do so by starting a Jekyll server (if you have it):
+If you'd like to view your changes before making a pull request, you can do so by starting a [Jekyll] server:
 
 ```
 jekyll serve
@@ -91,5 +89,6 @@ $ rake tags:generate
 
 MIT
 
-[pull request]:https://github.com/health-design-conferences/health-design-conferences.github.io/pulls
-[open source list]:http://health-design-conferences.github.io/
+[pull request]:https://github.com/noranda/health-IT-conferences.github.io/pulls
+[open source list]:http://health-IT-conferences.github.io/
+[Jekyll]:http://jekyllrb.com/
