@@ -4,7 +4,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #666;
-  background: #fafafa url('/images/body-bg.jpg') 0 0 repeat;
+  background: #fafafa url('{{site.github.url}}/images/body-bg.jpg') 0 0 repeat;
 }
 
 p {
@@ -22,7 +22,7 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url('/images/header-bg.jpg') 0 0 repeat-x;
+  background: #2e7bcf url('{{site.github.url}}/images/header-bg.jpg') 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
   font-weight: 100;
 }
@@ -84,7 +84,7 @@ aside#sidebar {
   min-height: 504px;
   padding-left: 20px;
   font-size: 0.8em;
-  background: transparent url('/images/sidebar-bg.jpg') 0 0 no-repeat;
+  background: transparent url('{{site.github.url}}/images/sidebar-bg.jpg') 0 0 no-repeat;
 }
 
 aside#sidebar p.repo-owner,
@@ -118,7 +118,7 @@ header a.button {
   top: 0;
   right: -35px;
   font-size: 1.8em;
-  background: transparent url('/images/github-button.png') 0 0 no-repeat;
+  background: transparent url('{{site.github.url}}/images/github-button.png') 0 0 no-repeat;
 }
 
 aside a.button {
@@ -131,11 +131,11 @@ aside a.button {
   font-size: 21px;
 
   &.pull-request {
-    background: transparent url('/images/pull-request-button.png') 0 0 no-repeat;
+    background: transparent url('{{site.github.url}}/images/pull-request-button.png') 0 0 no-repeat;
   }
 
   &.issues {
-    background: transparent url('/images/issues-button.png') 0 0 no-repeat;
+    background: transparent url('{{site.github.url}}/images/issues-button.png') 0 0 no-repeat;
   }
 }
 
