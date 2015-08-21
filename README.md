@@ -89,6 +89,6 @@ $ rake tags:generate
 
 MIT
 
-[pull request]:https://github.com/noranda/health-IT-conferences.github.io/pulls
-[open source list]:http://health-IT-conferences.github.io/
+[pull request]:https://github.com/noranda/health-it-conferences/pulls
+[open source list]:http://noranda.github.io/health-it-conferences/
 [Jekyll]:http://jekyllrb.com/
