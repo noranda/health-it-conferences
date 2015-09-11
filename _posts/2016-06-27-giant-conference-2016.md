@@ -8,7 +8,7 @@ host_url: http://www.giantux.com/
 start_date: 2016-06-27
 end_date: 2016-06-29
 cost_information:
-  - Early Bird: $599
+  - $599
 tags:
   - design
   - charleston

@@ -8,10 +8,12 @@ host_url: http://www.himss.org
 start_date: 2016-02-29
 end_date: 2016-03-4
 cost_information:
-  - TBD. Last year:
-  -   Early Bird Registration - $995 - Ends 1/26/2015
-  -   Advance Registration - $1,095 - Ends 3/16/2015
-  -   Standard Registration - $1,245
+  - HIMSS Member - $765(E) / $865(A) / $1165(S)
+  - Non Member - $995(E) / $1095(A) / $1265(S)
+  - Endorser - $765(E) / $865(A) / $1165(S)
+  - Government - $765
+  - Student - $145
+  - Single day and virtual options also available
 tags:
   - healthcare
   - health IT

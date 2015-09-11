@@ -7,6 +7,15 @@ host: Personal Connected Health Alliance
 host_url: http://www.pchalliance.org
 start_date: 2015-11-08
 end_date: 2015-11-11
+cost_information:
+  - General Full Access - $795(R) / $895(O)
+  - General Exhibit Floor Pass - $200(R) / $250 (O)
+  - Federal Government Full Access - $245(R) / $265(O)
+  - Federal Government Exhibit Floor Pass - $110(R) / $125(O)
+  - Student Full Access - $220(R) / $240(O)
+  - Student Exhibit Floor Pass - $110(R) / $125(O)
+  - R = Regular, O = On-site
+  - Addons available
 tags:
   - healthcare
   - health IT

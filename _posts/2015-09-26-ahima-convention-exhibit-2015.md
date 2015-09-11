@@ -7,6 +7,8 @@ host: The American Health Information Management Association (AHIMA)
 host_url: http://www.ahima.org
 start_date: 2015-09-26
 end_date: 2015-09-30
+cost_information:
+  - Account needed to register
 tags:
   - healthcare
   - health IT

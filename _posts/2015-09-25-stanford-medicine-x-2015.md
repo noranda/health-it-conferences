@@ -7,6 +7,11 @@ host: Stanford University
 host_url: http://www.stanford.edu
 start_date: 2015-09-25
 end_date: 2015-09-27
+cost_information:
+  - Pre-conference events - $299-$399
+  - Medicine X | Ed - $1448
+  - Medicine X - $2999(e) / $965(A/S)
+  - e = ePatient Legacy Maker, A = Academic
 tags:
   - healthcare
   - health IT

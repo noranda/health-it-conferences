@@ -1,6 +1,8 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
+- slug: mit
+  name: MIT
 - slug: austin
   name: austin
 - slug: boston
@@ -11,8 +13,6 @@
   name: cambridge
 - slug: charleston
   name: charleston
-- slug: chicago
-  name: chicago
 - slug: colorado
   name: colorado
 - slug: denver
@@ -25,10 +25,10 @@
   name: health IT
 - slug: health-informatics
   name: health informatics
+- slug: healthit
+  name: healthIT
 - slug: healthcare
   name: healthcare
-- slug: illinois
-  name: illinois
 - slug: las-vegas
   name: las vegas
 - slug: louisiana
@@ -43,8 +43,12 @@
   name: mobile
 - slug: nevada
   name: nevada
+- slug: north-carolina
+  name: north carolina
 - slug: north-dakota
   name: north dakota
+- slug: oregon
+  name: oregon
 - slug: palm-springs
   name: palm springs
 - slug: san-diego
@@ -53,6 +57,8 @@
   name: san francisco
 - slug: seattle
   name: seattle
+- slug: security
+  name: security
 - slug: south-carolina
   name: south carolina
 - slug: texas
