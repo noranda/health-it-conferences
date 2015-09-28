@@ -9,18 +9,16 @@
   name: boston
 - slug: california
   name: california
-- slug: cambridge
-  name: cambridge
 - slug: charleston
   name: charleston
-- slug: colorado
-  name: colorado
-- slug: denver
-  name: denver
+- slug: chicago
+  name: chicago
 - slug: design
   name: design
-- slug: hackathon
-  name: hackathon
+- slug: florida
+  name: florida
+- slug: government
+  name: government
 - slug: health-it
   name: health IT
 - slug: health-informatics
@@ -29,14 +27,16 @@
   name: healthIT
 - slug: healthcare
   name: healthcare
+- slug: illinois
+  name: illinois
+- slug: informatics
+  name: informatics
 - slug: las-vegas
   name: las vegas
 - slug: louisiana
   name: louisiana
 - slug: massachusetts
   name: massachusetts
-- slug: michigan
-  name: michigan
 - slug: minnesota
   name: minnesota
 - slug: mobile
@@ -51,6 +51,8 @@
   name: oregon
 - slug: palm-springs
   name: palm springs
+- slug: policy
+  name: policy
 - slug: san-diego
   name: san diego
 - slug: san-francisco
@@ -61,6 +63,8 @@
   name: security
 - slug: south-carolina
   name: south carolina
+- slug: tennessee
+  name: tennessee
 - slug: texas
   name: texas
 - slug: user-experience
@@ -73,5 +77,3 @@
   name: washington DC
 - slug: washington-dc
   name: washington dc
-- slug: women
-  name: women
