@@ -15,14 +15,22 @@
   name: chicago
 - slug: design
   name: design
+- slug: development
+  name: development
+- slug: digital-health
+  name: digital health
 - slug: florida
   name: florida
-- slug: government
-  name: government
+- slug: georgia
+  name: georgia
 - slug: health-it
   name: health IT
+- slug: health-experience
+  name: health experience
 - slug: health-informatics
   name: health informatics
+- slug: health-it
+  name: health it
 - slug: healthit
   name: healthIT
 - slug: healthcare
@@ -33,26 +41,26 @@
   name: informatics
 - slug: las-vegas
   name: las vegas
-- slug: louisiana
-  name: louisiana
 - slug: massachusetts
   name: massachusetts
-- slug: minnesota
-  name: minnesota
 - slug: mobile
   name: mobile
 - slug: nevada
   name: nevada
 - slug: north-carolina
   name: north carolina
-- slug: north-dakota
-  name: north dakota
+- slug: open-source
+  name: open source
 - slug: oregon
   name: oregon
 - slug: palm-springs
   name: palm springs
+- slug: pennsylvania
+  name: pennsylvania
 - slug: policy
   name: policy
+- slug: population-health
+  name: population health
 - slug: san-diego
   name: san diego
 - slug: san-francisco
