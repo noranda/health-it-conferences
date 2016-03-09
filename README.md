@@ -31,7 +31,7 @@ In your forked copy of the repo, first look for the conference you'd like to add
 If the conference you want to add is not in the `_drafts\` folder, create a new `md` file in the `_posts\` folder using the following naming convention:
 
 ```
-YYYY-MM-DD-convention-name.md
+YYYY-MM-DD-convention-name-YYYY.md
 ```
 
 The date should correspond to the start date of the conference. Next, use the following template to add the conference information your new file:
@@ -61,7 +61,7 @@ It is important to include the `---` dashes. Also do not use a `:` except in a U
 
 ### Editing a conference
 
-To edit a conference, find the conference file you'd like to edit in the `_posts/` folder and make the changes.
+To edit a conference, find the conference file you'd like to edit in the `_posts\` folder and make the changes.
 
 ##### Incorrect information
 
@@ -73,7 +73,7 @@ If a conference date has passed and will not return the following year, delete t
 
 ### Deleting a conference
 
-To delete a conference, delete its corresponding post file in the `_posts\` directory and run the tags rakefile (see below).
+To delete a conference, delete the file corresponding post file in the `_posts\` directory. If you are deleting an annual conference, instead of deleting the file, change the file name to remove the prefix date in the corresponding post file in the `_posts\` directory, move it to the `_drafts\` directory. Doing so will maintain a list to periodically check with the next annual conference is scheduled. Finally, run the tags rakefile (see below).
 
 ### Tags
 

@@ -1,5 +1,5 @@
 ---
 layout: conference_by_tag
-tag: health it
+tag: health IT
 permalink: conferences/tag/health-it/
 ---

@@ -1,10 +1,6 @@
 ---
-- slug: ca-bay-area
-  name: CA bay area
 - slug: mit
   name: MIT
-- slug: austin
-  name: austin
 - slug: boston
   name: boston
 - slug: california
@@ -15,70 +11,40 @@
   name: chicago
 - slug: design
   name: design
-- slug: development
-  name: development
-- slug: digital-health
-  name: digital health
 - slug: florida
   name: florida
 - slug: georgia
   name: georgia
 - slug: health-it
   name: health IT
-- slug: health-experience
-  name: health experience
 - slug: health-informatics
   name: health informatics
-- slug: health-it
-  name: health it
-- slug: healthit
-  name: healthIT
 - slug: healthcare
   name: healthcare
 - slug: illinois
   name: illinois
-- slug: informatics
-  name: informatics
 - slug: las-vegas
   name: las vegas
 - slug: massachusetts
   name: massachusetts
-- slug: mobile
-  name: mobile
 - slug: nevada
   name: nevada
-- slug: north-carolina
-  name: north carolina
-- slug: open-source
-  name: open source
 - slug: oregon
   name: oregon
-- slug: palm-springs
-  name: palm springs
-- slug: pennsylvania
-  name: pennsylvania
 - slug: policy
   name: policy
 - slug: population-health
   name: population health
-- slug: san-diego
-  name: san diego
 - slug: san-francisco
   name: san francisco
 - slug: seattle
   name: seattle
-- slug: security
-  name: security
 - slug: south-carolina
   name: south carolina
 - slug: tennessee
   name: tennessee
-- slug: texas
-  name: texas
 - slug: user-experience
   name: user experience
-- slug: virginia
-  name: virginia
 - slug: washington
   name: washington
 - slug: washington-dc
