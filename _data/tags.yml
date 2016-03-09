@@ -1,4 +1,6 @@
 ---
+- slug: ca-bay-area
+  name: CA bay area
 - slug: mit
   name: MIT
 - slug: boston
@@ -13,8 +15,6 @@
   name: design
 - slug: florida
   name: florida
-- slug: georgia
-  name: georgia
 - slug: health-it
   name: health IT
 - slug: health-informatics
@@ -33,8 +33,6 @@
   name: oregon
 - slug: policy
   name: policy
-- slug: population-health
-  name: population health
 - slug: san-francisco
   name: san francisco
 - slug: seattle
