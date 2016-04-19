@@ -3,6 +3,8 @@
   name: CA bay area
 - slug: mit
   name: MIT
+- slug: biology
+  name: biology
 - slug: boston
   name: boston
 - slug: california
@@ -11,10 +13,20 @@
   name: charleston
 - slug: chicago
   name: chicago
+- slug: cleveland
+  name: cleveland
 - slug: design
   name: design
+- slug: empathy
+  name: empathy
+- slug: environment
+  name: environment
 - slug: florida
   name: florida
+- slug: genome
+  name: genome
+- slug: harvard
+  name: harvard
 - slug: health-it
   name: health IT
 - slug: health-informatics
@@ -23,14 +35,20 @@
   name: healthcare
 - slug: illinois
   name: illinois
+- slug: innovation
+  name: innovation
 - slug: las-vegas
   name: las vegas
 - slug: massachusetts
   name: massachusetts
+- slug: minnesota
+  name: minnesota
 - slug: nevada
   name: nevada
 - slug: oregon
   name: oregon
+- slug: patient
+  name: patient
 - slug: policy
   name: policy
 - slug: san-francisco
@@ -41,6 +59,8 @@
   name: south carolina
 - slug: tennessee
   name: tennessee
+- slug: trait
+  name: trait
 - slug: user-experience
   name: user experience
 - slug: washington
