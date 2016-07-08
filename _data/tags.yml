@@ -1,32 +1,34 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
-- slug: mit
-  name: MIT
-- slug: biology
-  name: biology
+- slug: nyc
+  name: NYC
+- slug: analytics
+  name: analytics
+- slug: arizona
+  name: arizona
 - slug: boston
   name: boston
 - slug: california
   name: california
-- slug: charleston
-  name: charleston
 - slug: chicago
   name: chicago
-- slug: cleveland
-  name: cleveland
+- slug: colorado
+  name: colorado
 - slug: design
   name: design
-- slug: empathy
-  name: empathy
-- slug: environment
-  name: environment
+- slug: development
+  name: development
+- slug: digital-health
+  name: digital health
+- slug: featured
+  name: featured
 - slug: florida
   name: florida
-- slug: genome
-  name: genome
-- slug: harvard
-  name: harvard
+- slug: georgia
+  name: georgia
+- slug: government
+  name: government
 - slug: health-it
   name: health IT
 - slug: health-informatics
@@ -35,34 +37,56 @@
   name: healthcare
 - slug: illinois
   name: illinois
-- slug: innovation
-  name: innovation
-- slug: las-vegas
-  name: las vegas
+- slug: informatics
+  name: informatics
+- slug: maryland
+  name: maryland
 - slug: massachusetts
   name: massachusetts
+- slug: michigan
+  name: michigan
 - slug: minnesota
   name: minnesota
+- slug: mobile
+  name: mobile
 - slug: nevada
   name: nevada
+- slug: new-york
+  name: new york
+- slug: north-carolina
+  name: north carolina
+- slug: ohio
+  name: ohio
+- slug: open-source
+  name: open source
 - slug: oregon
   name: oregon
-- slug: patient
-  name: patient
+- slug: patients
+  name: patients
+- slug: pennsylvania
+  name: pennsylvania
 - slug: policy
   name: policy
+- slug: population-health
+  name: population health
+- slug: public-health
+  name: public health
+- slug: research
+  name: research
 - slug: san-francisco
   name: san francisco
 - slug: seattle
   name: seattle
-- slug: south-carolina
-  name: south carolina
-- slug: tennessee
-  name: tennessee
-- slug: trait
-  name: trait
+- slug: security
+  name: security
+- slug: texas
+  name: texas
 - slug: user-experience
   name: user experience
+- slug: utah
+  name: utah
+- slug: virginia
+  name: virginia
 - slug: washington
   name: washington
 - slug: washington-dc
