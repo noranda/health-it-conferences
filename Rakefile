@@ -13,6 +13,8 @@ namespace :tags do
       contents = File.read(post)
       yaml_content = contents.split(/---/, 3)[1]        # grab front matter content
 
+      puts "=> Scanning post _posts/#{File.basename(post)}"
+
       post_config = YAML.load(yaml_content)             # parse as yaml
       post_config['tags'].each do |tag|
         tags << tag unless tags.include?(tag)           # assemble all unique tags
@@ -25,16 +27,16 @@ namespace :tags do
       { 'slug' => slugify(tag), 'name' => tag }
     end
 
-    puts "Writing _data/tags.yml"                       # write tag slugs to yaml config file
+    puts "=> Writing _data/tags.yml"                    # write tag slugs to yaml config file
     File.open("#{base_dir}/_data/tags.yml", 'w') { |f| f.write(YAML.dump(tags_data)) }
 
     Dir.glob("#{base_dir}/conferences/tag/*.md").each do |file|
-      puts "Removing file: #{file}"                     # remove old tags
-      File.unlink(file)
+      puts "=> Removing file: conferences/tag/#{File.basename(file)}"
+      File.unlink(file)                                 # remove old tags
     end
 
     tags_data.each do |tag_data|                        # write new tags
-      puts "Writing conferences/tag/#{tag_data['slug']}.md"
+      puts "=> Writing conferences/tag/#{tag_data['slug']}.md"
 
       File.open("#{base_dir}/conferences/tag/#{tag_data['slug']}.md", 'w') do |f|
         f.write(YAML.dump({

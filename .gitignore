@@ -3,3 +3,5 @@ _site
 .jekyll-assets-cache
 .DS_Store
 *.orig
+.bundle
+vendor/bundle
