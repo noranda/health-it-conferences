@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://noranda.github.io/health-it-conferences" # the base hostname & protocol for your site
 twitter_username: noranda82
 github_username:  noranda
+future: true
 
 # Build settings
 markdown: kramdown
