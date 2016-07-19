@@ -1,12 +1,16 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
+- slug: cdc
+  name: CDC
 - slug: nyc
   name: NYC
 - slug: analytics
   name: analytics
 - slug: arizona
   name: arizona
+- slug: atlanta
+  name: atlanta
 - slug: boston
   name: boston
 - slug: california
