@@ -1,20 +1,19 @@
 ---
 layout: conference
 title: Next Edge Health Experience Summit 2016
-conference_url: http://www.nextedgesummit.com/index.html
+conference_url: http://www.nextedgesummit.com/
 location: Boston, MA
-host: next IT Healthcare
-host_url: http://www.nextithealthcare.com/
+host: Next IT and Panagora Pharma
+host_url: http://www.nextit.com/
 start_date: 2016-10-17
 end_date: 2016-10-18
 cost_information:
-  - $495
+  - $595
 tags:
+  - just added
   - healthcare
+  - health experience
   - boston
-  - massachusetts
 ---
 
-The age of telemedicine, wearables, remote data capture, and sophisticated wellness programs has advanced patient-centered care to the next edge. Patients as individuals are, more than ever before, the primary stakeholders in their own care.
-
-This year’s Next Edge Summit will hone in on the patient journey – the path healthcare professionals have to pave to fully empower the patient.
+At the Next Edge: Health Experience Summit, you’ll hear from makers, pioneers and visionaries who are pushing forward the edge of person-centric care, not just talking about it. Join us and other executives and leaders to discuss real world solutions and learn ways to create engaging, inclusive and seamless experiences for the people that need care most. Let’s stop ignoring the way people are treated and start shaping the future of person-centric care.

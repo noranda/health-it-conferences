@@ -8,8 +8,10 @@ host_url: https://academyhealth.org
 start_date: 2016-10-24
 end_date: 2016-10-26
 cost_information:
-  - TBD
+  - Individual - $1500(member) / $1800(non-member)
+  - Fellow - $1300
 tags:
+  - just added
   - healthcare
   - policy
   - washington DC

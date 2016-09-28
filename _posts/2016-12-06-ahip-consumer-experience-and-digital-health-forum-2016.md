@@ -8,8 +8,12 @@ host_url: https://www.ahip.org
 start_date: 2016-12-06
 end_date: 2016-12-08
 cost_information:
-  - TBD
+  - Early Registration (through 11/1/2016) - $895(M) / $1195(NM) / $725(G)
+  - Standard Rate - $1195(M) / $1495(NM) / $725(G)
+  - One Day Rate - $695(M) / $895(NM)
+  - M = member, NM = non-member, G = government
 tags:
+  - just added
   - healthcare
   - digital health
   - illinois

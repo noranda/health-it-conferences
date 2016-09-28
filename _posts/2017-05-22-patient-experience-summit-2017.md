@@ -8,14 +8,16 @@ host_url: http://my.clevelandclinic.org/
 start_date: 2017-05-22
 end_date: 2017-05-24
 cost_information:
-  - TBD, Last year's fees...
-  - Full Conference - $1,050
-  - Sunday - $450
-  - Monday or Tuesday only - $600
-  - Wednesday - $350
+  - Full Conference Early Bird - $945(M) / $950(NM) (through 12/31/16)
+  - Full Conference - $855(M) / $1050(NM)
+  - Tuesday - $585(M) / $650(NM)
+  - Monday or Wednesday only - $382.50(M) / $425(NM)
   - Companies/Organizations sending 4+ employees - $850/pp
   - Companies/Organizations sending 12+ employees - $725/pp
+  - Full time student - $225
+  - M = member, NM = non-member
 tags:
+  - just added
   - healthcare
   - patients
   - ohio

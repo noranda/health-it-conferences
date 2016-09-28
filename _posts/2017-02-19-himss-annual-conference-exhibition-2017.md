@@ -8,14 +8,16 @@ host_url: http://www.himss.org
 start_date: 2017-02-19
 end_date: 2017-02-23
 cost_information:
-  - TBD - Last year's fees...
-  - HIMSS Member - $765(E) / $865(A) / $1165(S)
-  - Non Member - $995(E) / $1095(A) / $1265(S)
-  - Endorser - $765(E) / $865(A) / $1165(S)
-  - Government - $765
+  - HIMSS Member - $785(E) / $885(A) / $1185(S)
+  - Non Member - $1015(E) / $1115(A) / $1285(S)
+  - Endorser - $785(E) / $885(A) / $1185(S)
+  - Government - $785
   - Student - $145
-  - Single day and virtual options also available
+  - Single Day - $495(E) / $545(A) / $625(S)
+  - Wednesday Exhibit Hall Only - $365(E/A) / $465(S)
+  - E = early (through 12/5/16) / A = advance (through 1/23/17) / S = standard
 tags:
+  - just added
   - healthcare
   - health IT
   - florida

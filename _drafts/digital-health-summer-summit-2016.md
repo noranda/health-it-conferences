@@ -10,7 +10,7 @@ end_date: 2016-06-07
 cost_information:
   - $900
 tags:
-  - health
+  - healthcare
   - san francisco
   - california
 ---
