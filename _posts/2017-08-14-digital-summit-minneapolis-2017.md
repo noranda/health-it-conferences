@@ -8,12 +8,10 @@ host_url: http://www.techmediaco.com
 start_date: 2017-08-14
 end_date: 2017-08-15
 cost_information:
-  - TBD, last years fees...
-  - Conference Pass - $245 (until 7/13/16) / $445
-  - All Access Pass - $345 (until 7/13/16) / $545 (includes pre-conference workshops and lunch)
-  - Platinum Pass - $545 (until 7/13/16) / $745 (includes reserved seating and VIP lounge access)
+  - Conference Pass - $245 (until 8/14/17)
+  - All Access Pass - $345 (until 8/14/17 - includes pre-conference workshops and lunch)
+  - Platinum Pass - $645 (until 8/14/17 - includes reserved seating, VIP lounge access, and keynote meet-and-greet)
 tags:
-  - just added
   - design
   - mobile
   - minnesota

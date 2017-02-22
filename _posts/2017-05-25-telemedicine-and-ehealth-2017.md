@@ -16,7 +16,6 @@ cost_information:
   - A4 Advertisement in Souvenir - $299/$399/$499(A), $399/$499/$599(B)
   - A = Academic, B = Business; prices for through dates 11/25/16,5/15/17,5/25/17
 tags:
-  - just added
   - healthcare
   - telemedicine
   - illinois

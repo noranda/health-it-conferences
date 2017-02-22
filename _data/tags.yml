@@ -1,8 +1,6 @@
 ---
 - slug: ca-bay-area
   name: CA bay area
-- slug: nyc
-  name: NYC
 - slug: analytics
   name: analytics
 - slug: arizona
@@ -19,8 +17,6 @@
   name: design
 - slug: development
   name: development
-- slug: digital
-  name: digital
 - slug: digital-health
   name: digital health
 - slug: featured
@@ -31,10 +27,10 @@
   name: florida
 - slug: georgia
   name: georgia
+- slug: government
+  name: government
 - slug: health-it
   name: health IT
-- slug: health-experience
-  name: health experience
 - slug: health-informatics
   name: health informatics
 - slug: healthcare
@@ -43,10 +39,12 @@
   name: illinois
 - slug: informatics
   name: informatics
-- slug: just-added
-  name: just added
-- slug: maryland
-  name: maryland
+- slug: internet
+  name: internet
+- slug: los-angeles
+  name: los angeles
+- slug: louisiana
+  name: louisiana
 - slug: massachusetts
   name: massachusetts
 - slug: michigan
@@ -59,8 +57,8 @@
   name: mobile
 - slug: nevada
   name: nevada
-- slug: new-york
-  name: new york
+- slug: new
+  name: new
 - slug: north-carolina
   name: north carolina
 - slug: ohio
@@ -89,12 +87,12 @@
   name: security
 - slug: telemedicine
   name: telemedicine
+- slug: tennessee
+  name: tennessee
 - slug: texas
   name: texas
 - slug: user-experience
   name: user experience
-- slug: virginia
-  name: virginia
 - slug: washington
   name: washington
 - slug: washington-dc

@@ -12,7 +12,6 @@ cost_information:
   - A Day Apart Pass - $549 (until 8/28/17) / $599 (until 10/29/17) / $699 (at-the-door)
   - Conference + A Day Apart Pass - $1340 (until 8/28/17) / $1440 (until 10/30/16) / $1540 (at-the-door)
 tags:
-  - just added
   - design
   - san francisco
   - california

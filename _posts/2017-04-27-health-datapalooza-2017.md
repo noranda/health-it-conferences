@@ -8,15 +8,11 @@ host_url: http://www.healthdataconsortium.org
 start_date: 2017-04-27
 end_date: 2017-04-28
 cost_information:
-  - TBD, last years fees...
-  - Super Early Bird - $795(G) / $595(A) / $495(G) - Ends 3/11/16
-  - Early Bird - $865(G) / $695(A) / $595(G) - Ends 4/8/16
-  - Full Price - $995(G) / $795(A) / $695(G)
-  - Day of Event - $1095(G) / $895(A) / $795(G)
-  - Developers/Students/Exhibit Hall Only - $395
-  - G = General, N = Academics, G = Government
+  - On-site - $895
+  - Government - $495
+  - Developer, Student - $395
+  - Exhibit Hall Pass Only - $395
 tags:
-  - just added
   - healthcare
   - health IT
   - washington DC

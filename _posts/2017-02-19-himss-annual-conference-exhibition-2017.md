@@ -17,7 +17,6 @@ cost_information:
   - Wednesday Exhibit Hall Only - $365(E/A) / $465(S)
   - E = early (through 12/5/16) / A = advance (through 1/23/17) / S = standard
 tags:
-  - just added
   - healthcare
   - health IT
   - florida

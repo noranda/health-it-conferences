@@ -8,10 +8,12 @@ host_url: www.naccho.org/
 start_date: 2017-07-11
 end_date: 2017-07-13
 cost_information:
-  - TBD, last years fees...
-  - $120-$720
+  - Member - $530-$630
+  - Nonmember - $720-$820
+  - Workshops available
+  - Discounts available when registering early
+  - Single day registration available
 tags:
-  - just added
   - healthcare
   - arizona
 ---

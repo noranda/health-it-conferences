@@ -10,7 +10,6 @@ end_date: 2017-12-13
 cost_information:
   - Conference Pass - $1340 (until 10/9/17) / $1440 (until 12/10/17) / $1540 (at-the-door)
 tags:
-  - just added
   - design
   - colorado
 ---

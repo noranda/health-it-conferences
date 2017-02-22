@@ -12,7 +12,6 @@ cost_information:
   - A Day Apart Pass - $549 (until 6/26/17) / $599 (until 8/27/17) / $699 (at-the-door)
   - Conference + A Day Apart Pass - $1340 (until 6/26/17) / $1440 (until 8/27/17) / $1540 (at-the-door)
 tags:
-  - just added
   - design
   - chicago
   - illinois

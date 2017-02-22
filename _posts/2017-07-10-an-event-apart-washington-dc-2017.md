@@ -12,7 +12,6 @@ cost_information:
   - A Day Apart Pass - $549 (until 5/15/17) / $599 (until 7/9/17) / $699 (at-the-door)
   - Conference + A Day Apart Pass - $1340 (until 5/15/17) / $1440 (until 7/9/17) / $1540 (at-the-door)
 tags:
-  - just added
   - design
   - washington dc
 ---

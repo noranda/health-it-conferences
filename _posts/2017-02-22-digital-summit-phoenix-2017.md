@@ -8,15 +8,10 @@ host_url: http://www.techmediaco.com
 start_date: 2017-02-22
 end_date: 2017-02-23
 cost_information:
-  - TBD, last years fees...
-  - Early Bird Conference Pass - $245
-  - Early Bird All Access Pass - $345
-  - Early Bird Platinum Pass - $445
-  - Regular Conference Pass - $445
-  - Regular All Access Pass - $545
-  - Regular Platinum Pass - $645
+  - Conference Pass - $345
+  - All Access Pass - $445 (includes workshops and lunch)
+  - Platinum Pass - $695 (includes reserved seating, VIP lounge, and keynote meet-and-greet)
 tags:
-  - just added
   - design
   - mobile
   - arizona

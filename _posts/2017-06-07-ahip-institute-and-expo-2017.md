@@ -8,13 +8,13 @@ host_url: https://ahip.org/
 start_date: 2017-06-07
 end_date: 2017-06-09
 cost_information:
-  - TBD, last years fees...
-  - Standard - $1595(M) / $1895(NM) / $1295(G)
-  - One Day - $925(M) / $1275(NM)
-  - M = Member, NM = Non-member, G = Government
+  - Member - $925-$1545
+  - Nonmember - $1275-$1845
+  - Government - $925-$1245
+  - Discounts available for registering early (until 4/26/17) and attending one day only
 tags:
-  - just added
   - featured
+  - healthcare
   - texas
 ---
 

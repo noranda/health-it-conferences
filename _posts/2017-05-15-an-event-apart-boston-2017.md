@@ -12,7 +12,6 @@ cost_information:
   - A Day Apart Pass - $549 (until 3/13/2017) / $599 (until 5/14/2017) / $699 (at-the-door)
   - Conference + A Day Apart Pass - $1340 (until 3/13/2017) / $1440 (until 5/14/2017) / $1540 (at-the-door)
 tags:
-  - just added
   - design
   - boston
   - massachusetts

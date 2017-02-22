@@ -17,7 +17,6 @@ cost_information:
   - Full time student - $225
   - M = member, NM = non-member
 tags:
-  - just added
   - healthcare
   - patients
   - ohio

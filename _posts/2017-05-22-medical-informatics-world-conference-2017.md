@@ -15,7 +15,6 @@ cost_information:
   - Dinner Workshop - $599(C) / $299(H)
   - C = Commercial, H = Hospital & Health Systems, Health Plans, Academic, & Government
 tags:
-  - just added
   - healthcare
   - health IT
   - health informatics

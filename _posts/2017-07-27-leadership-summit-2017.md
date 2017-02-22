@@ -8,12 +8,11 @@ host_url: http://www.healthforum-edu.com/
 start_date: 2017-07-27
 end_date: 2017-07-29
 cost_information:
-  - TBD, last years fees...
-  - Member - $1095
-  - Non-member - $1195
+  - Member - $895-$1195
+  - Non-member - $995-$1295
   - Workshop options available
+  - Discounts available when registering early
 tags:
-  - just added
   - healthcare
   - california
 ---

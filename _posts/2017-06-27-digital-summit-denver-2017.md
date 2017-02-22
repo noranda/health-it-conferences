@@ -8,12 +8,11 @@ host_url: http://www.techmediaco.com
 start_date: 2017-06-27
 end_date: 2017-06-28
 cost_information:
-  - TBD, last years fees...
-  - Conference Pass - $345
-  - All Access Pass - $445 (includes pre-conference workshops and lunch)
-  - Founder's Pass - $695 (includes reserved seating, VIP lounge access, and keynote meet & greet)
+  - Registration fees TBD, last years fees as follows...
+  - Conference Pass - $245 (until 6/27/17)
+  - All Access Pass - $345 (until 6/27/17 - includes pre-conference workshops and lunch)
+  - Founder's Pass - $645 (until 6/27/17 - includes reserved seating, VIP lounge access, and keynote meet-and-greet)
 tags:
-  - just added
   - design
   - mobile
   - colorado

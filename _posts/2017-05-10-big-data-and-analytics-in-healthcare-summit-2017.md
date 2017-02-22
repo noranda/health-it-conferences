@@ -14,7 +14,6 @@ cost_information:
   - On Day Pass - $895
   - On Demand Pass - $600
 tags:
-  - just added
   - healthcare
   - analytics
   - pennsylvania
