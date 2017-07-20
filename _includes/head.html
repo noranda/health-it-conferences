@@ -4,13 +4,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!--[if lt IE 9]>
-    <script src="{{ "/js/html5shiv-printshiv.js" | prepend: site.github.url }}"></script>
+    <script src="{{ "/js/html5shiv-printshiv.js" | prepend: site.github.url | replace: 'http://', 'https://' }}"></script>
   <![endif]-->
+
+  <script>
+    if (window.location.host.indexOf('github.io') >= 0 && window.location.protocol === 'http:') {
+      window.location.protocol = "https";
+    }
+  </script>
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="{{site.github.url}}/css/app.css" />
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}" />
+  <link rel="stylesheet" href="{{ "/css/app.css" | prepend: site.github.url | replace: 'http://', 'https://' }}" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url | replace: 'http://', 'https://' }}" />
 </head>

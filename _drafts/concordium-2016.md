@@ -3,7 +3,7 @@ layout: conference
 title: Concordium 2016
 conference_url: http://concordium.academyhealth.org/
 location: Arlington, VA
-host: Academy Health
+host: AcademyHealth
 host_url: https://academyhealth.org/
 start_date: 2016-09-12
 end_date: 2016-09-13

@@ -12,7 +12,6 @@ cost_information:
   - All Access Pass - $345 (includes pre-conference workshops and lunch)
   - Platinum Pass - $645 (includes reserved seating and VIP lounge access)
 tags:
-  - new
   - design
   - mobile
   - missouri

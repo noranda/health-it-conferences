@@ -12,7 +12,6 @@ cost_information:
   - All Access Pass - $345 (early-bird - includes pre-conference workshops and lunch)
   - Platinum Pass - $645 (early bird - includes reserved seating and VIP lounge access)
 tags:
-  - new
   - design
   - mobile
   - michigan

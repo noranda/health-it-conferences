@@ -8,13 +8,12 @@ host_url: https://theinnovationenterprise.com
 start_date: 2017-09-07
 end_date: 2017-09-08
 cost_information:
-  - Early Bird Silver Pass - $1495
-  - Early Bird Gold Pass - $1795
-  - Early Bird Diamond Pass - $2095
-  - Early Bird All Access Pass - $2395
-  - Early Bird On Demand Pass - $600
-  - Early Bird One Day Pass - $995
-  - Standard Rates TBD
+  - Silver Pass - $1695
+  - Gold Pass - $1995
+  - Diamond Pass - $2295
+  - All Access Pass - $2495
+  - On Demand Pass - $600
+  - One Day Pass - $995
 tags:
   - design
   - boston

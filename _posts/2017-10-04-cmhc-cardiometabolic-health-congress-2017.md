@@ -12,9 +12,7 @@ cost_information:
   - Allied Health Professionals - $495-$795
   - Fellows/Residents/Students - $95-$395
   - Industry - $895-$1395
-  - Discounts available when registering early
 tags:
-  - new
   - healthcare
   - boston
   - massachusetts

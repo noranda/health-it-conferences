@@ -8,11 +8,11 @@ host_url: http://www.techmediaco.com
 start_date: 2017-10-02
 end_date: 2017-10-03
 cost_information:
-  - Conference Pass - $245 (early-bird)
-  - All Access Pass - $345 (early-bird - includes pre-conference workshops and lunch)
-  - Platinum Pass - $645 (early bird - includes reserved seating and VIP lounge access)
+  - Conference Pass - $245-$445
+  - All Access Pass - $345-$545
+  - Premium Pass - $445-$645
+  - Platinum Pass - $995-$1195
 tags:
-  - new
   - design
   - mobile
   - north carolina

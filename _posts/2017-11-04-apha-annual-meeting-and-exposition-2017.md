@@ -8,17 +8,11 @@ host_url: http://www.apha.org/
 start_date: 2017-11-04
 end_date: 2017-11-08
 cost_information:
-  - Registration rates TBD, 2016 registration rates as follows... (registration opens June 2017)
-  - Early Bird Member (through 8/11/16) - $510(R) / $285(LI,RT) / $235(S) / $320(EC)
-  - Early Bird Non-member (through 8/11/16) - $830(R) / $370(S) / $320(HG)
-  - Advance Member (through 9/15/16) - $565(R) / $315(LI,RT) / $270(S) / $365(EC)
-  - Advance Non-member (through 9/15/16) - $885(R) / $405(S) / $355(HG)
-  - Final Member - $625(R) / $350(LI,RT) / $270(S) / $410(EC)
-  - Final Non-member - $945(R) / $405(S) / $390(HG)
-  - R = Regular, LI = Low Income, RT = Retired, S = Student, EC = Early Career, HG = Health Guest
+  - Non-Member - $835-$950
+  - Non Public Health Guest - $325-$395
+  - Member - $515-$630
+  - Other discounts available
 tags:
-  - new
-  - featured
   - healthcare
   - public health
   - georgia

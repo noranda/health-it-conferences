@@ -10,7 +10,7 @@
 
     {% if tag %}
       {% capture tags_content_temp %}
-        {{ tags_content }} <span><a href="{{site.github.url}}/conferences/tag/{{ tag.slug }}/">{{ tag.name }}</a></span>
+        {{ tags_content }} <span><a href="{{site.github.url | replace: 'http://', 'https://'}}/conferences/tag/{{ tag.slug }}/">{{ tag.name }}</a></span>
       {% endcapture %}
       {% assign tags_content = tags_content_temp %}
     {% endif %}

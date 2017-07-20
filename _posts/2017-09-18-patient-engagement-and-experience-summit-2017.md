@@ -13,7 +13,6 @@ cost_information:
   - Workshops available
   - S = Standard, HP = Health Plans, HHS = Hospital & Health Systems, G = Government
 tags:
-  - new
   - healthcare
   - boston
   - massachusetts

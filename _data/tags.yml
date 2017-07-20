@@ -13,6 +13,8 @@
   name: chicago
 - slug: colorado
   name: colorado
+- slug: conversational-interface
+  name: conversational interface
 - slug: design
   name: design
 - slug: development
@@ -21,18 +23,12 @@
   name: digital health
 - slug: featured
   name: featured
-- slug: finance
-  name: finance
 - slug: florida
   name: florida
 - slug: georgia
   name: georgia
-- slug: government
-  name: government
 - slug: health-it
   name: health IT
-- slug: health-informatics
-  name: health informatics
 - slug: healthcare
   name: healthcare
 - slug: illinois
@@ -41,6 +37,8 @@
   name: informatics
 - slug: internet
   name: internet
+- slug: interoperability
+  name: interoperability
 - slug: los-angeles
   name: los angeles
 - slug: louisiana
@@ -59,16 +57,18 @@
   name: nevada
 - slug: new
   name: new
+- slug: new-york
+  name: new york
 - slug: north-carolina
   name: north carolina
 - slug: ohio
   name: ohio
 - slug: open-source
   name: open source
-- slug: oregon
-  name: oregon
-- slug: patients
-  name: patients
+- slug: patient-experience
+  name: patient experience
+- slug: patient-safety
+  name: patient safety
 - slug: pennsylvania
   name: pennsylvania
 - slug: policy
@@ -77,22 +77,22 @@
   name: population health
 - slug: public-health
   name: public health
-- slug: research
-  name: research
 - slug: san-francisco
   name: san francisco
 - slug: seattle
   name: seattle
 - slug: security
   name: security
-- slug: telemedicine
-  name: telemedicine
 - slug: tennessee
   name: tennessee
 - slug: texas
   name: texas
 - slug: user-experience
   name: user experience
+- slug: utah
+  name: utah
+- slug: virginia
+  name: virginia
 - slug: washington
   name: washington
 - slug: washington-dc

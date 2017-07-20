@@ -8,13 +8,10 @@ host_url: https://www.ahip.org
 start_date: 2017-11-07
 end_date: 2017-11-09
 cost_information:
-  - Registration fees TBD, last years fees as follows...
-  - Early Registration (through 11/1/2016) - $895(M) / $1195(NM) / $725(G)
-  - Standard Rate - $1195(M) / $1495(NM) / $725(G)
-  - One Day Rate - $695(M) / $895(NM)
-  - M = member, NM = non-member, G = government
+  - Member - $895-$1195, $695 (1-day)
+  - Non-Member - $1195-$1495, $895 (1-day)
+  - Government - $725
 tags:
-  - new
   - healthcare
   - digital health
   - tennessee

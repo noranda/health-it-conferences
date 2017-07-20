@@ -10,7 +10,6 @@ end_date: 2017-10-11
 cost_information:
   - Account needed to register
 tags:
-  - new
   - healthcare
   - health IT
   - los angeles

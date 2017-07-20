@@ -3,8 +3,8 @@ layout: conference
 title: Connected Health Conference 2017
 conference_url: http://www.connectedhealthconf.org/boston/2017
 location: Boston, MA
-host: Personal Connected Health Alliance
-host_url: http://www.pchalliance.org/
+host: Partners Healthcare
+host_url: http://connectedhealth.partners.org
 start_date: 2017-10-25
 end_date: 2017-10-27
 cost_information:
@@ -13,9 +13,7 @@ cost_information:
   - Provider - $250-$695
   - Government - $250-$450
   - Low and Middle Income Country - $200
-  - Discounts available for registering early
 tags:
-  - new
   - healthcare
   - boston
   - massachusetts

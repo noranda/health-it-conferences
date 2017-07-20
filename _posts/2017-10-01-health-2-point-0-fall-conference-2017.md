@@ -8,14 +8,11 @@ host_url: http://www.health2con.com
 start_date: 2017-10-01
 end_date: 2017-10-04
 cost_information:
-  - Early Bird I (until 5/31/17) - $1499
-  - Early Bird II (until 8/31/17) - $1799
-  - Standard Admission - $1999
+  - Standard Admission - $1899-$1999
+  - Workshops available
 tags:
-  - new
   - healthcare
   - health IT
-  - CA bay area
   - california
 ---
 

@@ -8,12 +8,11 @@ host_url: http://www.techmediaco.com
 start_date: 2017-11-15
 end_date: 2017-11-16
 cost_information:
-  - Registration fees TBD, 2016 registration fees as follows...
-  - Conference Pass - $245 (until 7/11/16) / $445
-  - All Access Pass - $345 (until 7/11/16) / $545 (includes pre-conference workshops and lunch)
-  - Platinum Pass - $645 (until 7/11/16) / $845 (includes reserved seating, lunch, VIP lounge access, and keynote meet & greet)
+  - Conference Pass - $275-$475
+  - All Access Pass - $375-$575
+  - Premium Pass - $475-$675
+  - Platinum Pass - $995-$1195
 tags:
-  - new
   - design
   - mobile
   - internet

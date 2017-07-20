@@ -9,9 +9,8 @@ start_date: 2017-12-14
 end_date: 2017-12-15
 cost_information:
   - Government, Provider, Educator - $595
-  - Vendor or Consultant - $1,595
+  - Vendor or Consultant - $1595
 tags:
-  - new
   - healthcare
   - health IT
   - informatics

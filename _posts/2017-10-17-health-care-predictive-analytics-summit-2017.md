@@ -8,16 +8,10 @@ host_url: http://www.worldcongress.com/
 start_date: 2017-10-17
 end_date: 2017-10-18
 cost_information:
-  - Registration fees TBD, 2016 fees as follows...
-  - Register by 7/15/16 - $1795(S) / $1295(H) / $595(HO)
-  - Register by 8/19/16 - $2095(S) / $1595(H) / $895(HO)
-  - Register by 10/18/16 - $2395(S) / $1895(H) / $1195(HO)
-  - Webcast - $995
-  - Webcast plus flash drive - $1095
-  - Webcast archive on flash drive - $995
-  - S = Standard Conference, H = Health Plans Conference, HO = Hospital & Health Systems Conference
+  - Standard - $1795-$2395
+  - Health Plans - $1295-$1895
+  - Hospital & Health Systems - $595-$1195
 tags:
-  - new
   - healthcare
   - health IT
   - boston

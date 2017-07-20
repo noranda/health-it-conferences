@@ -8,14 +8,9 @@ host_url: http://allthingsopen.org/
 start_date: 2017-10-23
 end_date: 2017-10-24
 cost_information:
-  - Registration fees TBD, last years fees as follows...
-  - June 8 – June 15 – $99 both days
-  - June 15 – August 19 – $99/single $149 both
-  - August 20 – October 3 – $129/single $199 both
-  - October 4 – October 18 – $179/single $249 both
-  - October 19 – October 27 – $229/single $299 both
+  - 2-days - $149 (until 8/17/17)
+  - 1-day - $99 (until 8/17/17)
 tags:
-  - new
   - open source
   - development
   - north carolina
